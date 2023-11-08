@@ -6,7 +6,7 @@ body{
 
 header{
     text-align: center;
-    background-color: blue;
+    background-color: rgb(54, 54, 196);
     color: white;
     padding: 15px;
 }
@@ -30,7 +30,7 @@ ul{
     align-items: center;
     justify-content: space-between;
     margin-bottom: 30px;
-    box-shadow: 12px 12px 2px 1px blue;
+    box-shadow: 12px 12px 2px 1px rgb(41, 159, 112);
 }
 
 .item-liste img{
@@ -47,7 +47,7 @@ ul{
 .item-liste p{
     margin: 0;
     padding: 10px;
-    color: blueviolet;
+    color:rgb(44, 66, 57);
 }
 
 .item-liste a{
@@ -55,9 +55,9 @@ ul{
     min-width: 100px;
     padding: 10px;
     /* font-size: 1.5em; */
-    background-color: blue;
+    background-color: rgb(124, 209, 164);
     border-radius: 25px;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 @media screen and (max-width:768px) {
